@@ -17,6 +17,15 @@
 <body>
   <p>Nothing to see here...0   php😀</p>
   <!-- Project -->
+<?php
+
+$a = 3 ;
+echo "bhavu".$a;
+
+
+?>
+
+
   <script src="main.js"></script>
 </body>
 </html>
